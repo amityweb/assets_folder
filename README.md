@@ -5,10 +5,10 @@ An Expression Engine fieldtype to assign an Assets folder ID to an entry, allowi
 
 Installation
 ------------
-Download file and upload to system/third_party/assets_folder/ folder
-Install via Addons -> Fieldtypes
-Add the field as you would any channel entry field
-In the entry just choose which parent folder you want to associate with the entry
+- Download file and upload to system/third_party/assets_folder/ folder
+- Install via Addons -> Fieldtypes
+- Add the field as you would any channel entry field
+- In the entry just choose which parent folder you want to associate with the entry
 
 Usage
 ------------
